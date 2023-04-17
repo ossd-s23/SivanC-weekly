@@ -34,3 +34,4 @@ Replace the first row with your own contribution.
 | March 4 | [my contribution](https://github.com/junegunn/goyo.vim/issues/275#issuecomment-1454390899) | Github Project | Asked for some more information as a follow up to my last comment, but looks like I was beat to the solution by the maintainer unfortunately! |
 | March 23 | [my contribution](https://github.com/OCHA-DAP/hdx-python-country/pull/15#issue-1637887874) | Github Project | Submitted a pull request to fix an issue in one of the Humanitarian Data Exchange libraries |
 | April 2 | [my contribution](https://openlibrary.org/books/OL27205045M/The_Columbia_companion_to_modern_Chinese_literature?m=diff&b=8) | Open Library | Added information to a book |
+| April 10 | [mycontribution](https://wiki.archlinux.org/index.php?title=TeX_Live&oldid=775277) | Arch Linux Wiki | Changed the description of a package to more accurately describe its contents |

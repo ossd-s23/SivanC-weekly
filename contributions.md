@@ -36,3 +36,4 @@ Replace the first row with your own contribution.
 | April 2 | [my contribution](https://openlibrary.org/books/OL27205045M/The_Columbia_companion_to_modern_Chinese_literature?m=diff&b=8) | Open Library | Added information to a book |
 | April 10 | [my contribution](https://wiki.archlinux.org/index.php?title=TeX_Live&oldid=775277) | Arch Linux Wiki | Changed the description of a package to more accurately describe its contents |
 | April 19 | [my contribution](openlibrary_author_merge.pdf) | Open Library | Collected a list of author pages that all referred to the same author that should be merged, and submitted it to the Open Library robot. |
+| April 22 | [my contribution](https://github.com/folke/tokyonight.nvim/pull/366) | Github Project | Fixed a list of broken links in a repository README |
